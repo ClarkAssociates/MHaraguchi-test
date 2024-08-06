@@ -1,6 +1,6 @@
 {
   "name": "@mharaguchi-clarkinc/mharaguchi-test-number-1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test package",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "test": "test"
   },
   "dependencies": {
-    "mharaguchi-test-number-1": "^1.0.1"
+    "mharaguchi-test-number-1": "^1.0.2"
   },
   "devDependencies": {}
 }
